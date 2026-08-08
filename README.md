@@ -8,9 +8,9 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="www.linkedin.com/in/sofiamayu"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.instagram.com/sofiamayuu/"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.sofia.mayuu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href=www.linkedin.com/in/sofiamayu><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href=https://www.instagram.com/sofiamayuu/><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href=mailto:your.sofia.mayuu@gmail.com><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
@@ -63,5 +63,5 @@ I enjoy discovering how technology works and turning ideas into real projects.
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/C++-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="C++ Skill Badge">
+  <img src="https://img.shields.io/badge/C++-Beginner-3776AB?style=flat&logo=C++&logoColor=white" alt="C++ Skill Badge">
 </p>
