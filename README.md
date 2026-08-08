@@ -58,8 +58,8 @@ I enjoy discovering how technology works and turning ideas into real projects.
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <p>
-  <img src="https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-Beginner-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Beginner-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
 
 
