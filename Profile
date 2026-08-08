@@ -1,12 +1,9 @@
 ## Hola 👋, soy Sofía ✨
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sofiamayu/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a>
   <a href="https://www.instagram.com/sofiamayuu/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"> </a>
@@ -50,14 +47,12 @@ I'm currently building my skills through academic projects, personal projects, a
 
 I enjoy discovering how technology works and turning ideas into real projects.
 
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://github.com/sofiamayu/aga-lab-pipeline-transformations)
       
 
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
+
  <p>
   <img src="https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Beginner-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
