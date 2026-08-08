@@ -8,9 +8,9 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href=www.linkedin.com/in/sofiamayu><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href=https://www.instagram.com/sofiamayuu/><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href=mailto:your.sofia.mayuu@gmail.com><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/sofiamayu/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a>
+  <a href="https://www.instagram.com/sofiamayuu/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"> </a>
+  <a href="mailto:your.sofia.mayuu@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email"> </a> 
 </p>
 
 ## 🚀 About Me 
