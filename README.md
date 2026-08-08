@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sofiamayu/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a>
   <a href="https://www.instagram.com/sofiamayuu/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"> </a>
+  <a href="discord.com/users/sopx_may" target="_blank"> <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a>
   <a href="mailto:your.sofia.mayuu@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email"> </a> 
 </p>
 
